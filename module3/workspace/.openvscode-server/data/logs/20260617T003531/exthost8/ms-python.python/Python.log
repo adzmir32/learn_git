@@ -1,0 +1,6 @@
+2026-06-20 17:18:13.105 [warning] Dir "/home/vsysuser/workspace/.pixi/envs" is not watchable (directory does not exist)
+2026-06-20 17:18:18.180 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-06-20 17:18:18.184 [info] Python interpreter path: /home/vsysuser/.pyenv/versions/3.10.10/bin/python
+2026-06-20 17:18:18.268 [info] > /home/vsysuser/.pyenv/bin/pyenv which python
+2026-06-20 17:18:18.269 [info] cwd: .
+2026-06-20 17:18:21.728 [info] Starting Jedi language server for workspace.

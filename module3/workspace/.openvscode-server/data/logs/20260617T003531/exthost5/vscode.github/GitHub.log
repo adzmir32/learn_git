@@ -1,0 +1,5 @@
+2026-06-18 10:26:25.728 [info] Log level: Info
+2026-06-18 10:26:28.350 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-06-18 10:26:28.737 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-06-18 10:26:29.045 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
+2026-06-18 10:45:32.048 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for vyomasystems-lab/assignment1-adzmir32: Error: No GitHub authentication session available.

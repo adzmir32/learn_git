@@ -1,0 +1,2 @@
+Day 1: learned mkdir and cd
+Day 1: also learned ls

@@ -1,0 +1,5 @@
+2026-06-19 01:26:38.181 [info] Extension host with pid 61246 started
+2026-06-19 01:26:38.185 [info] Lock '/home/vsysuser/workspace/.openvscode-server/data/User/workspaceStorage/6bfb4301/vscode.lock': Lock acquired.
+2026-06-19 12:49:52.265 [info] Extension host terminating: received terminate message from renderer
+2026-06-19 12:49:52.266 [info] Lock '/home/vsysuser/workspace/.openvscode-server/data/User/workspaceStorage/6bfb4301/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-06-19 12:49:52.268 [info] Extension host with pid 61246 exiting with code 0

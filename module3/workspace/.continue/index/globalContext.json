@@ -1,0 +1,20 @@
+{
+  "lastSelectedProfileForWorkspace": {
+    "file:///home/vsysuser/workspace:::personal": "local"
+  },
+  "lastSelectedOrgIdForWorkspace": {
+    "file:///home/vsysuser/workspace": "personal"
+  },
+  "selectedModelsByProfileId": {
+    "local": {
+      "chat": null,
+      "edit": null,
+      "apply": null,
+      "embed": "Transformers.js (Built-In)",
+      "autocomplete": null,
+      "rerank": null,
+      "summarize": null,
+      "subagent": null
+    }
+  }
+}

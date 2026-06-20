@@ -1,0 +1,45 @@
+2026-06-17 13:51:52.405 [info] Extension host with pid 44899 started
+2026-06-17 13:51:52.420 [info] Lock '/home/vsysuser/workspace/.openvscode-server/data/User/workspaceStorage/6bfb4301/vscode.lock': Lock acquired.
+2026-06-17 13:51:52.949 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2026-06-17 13:51:52.950 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2026-06-17 13:51:52.951 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-06-17 13:51:53.556 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-06-17 13:51:53.703 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-06-17 13:51:53.703 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-06-17 13:51:53.900 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2026-06-17 13:51:54.091 [info] Eager extensions activated
+2026-06-17 13:51:54.091 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-06-17 13:51:54.092 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-06-17 13:51:54.092 [info] ExtensionService#_doActivateExtension Continue.continue, startup: false, activationEvent: 'onStartupFinished'
+2026-06-17 13:51:54.093 [info] ExtensionService#_doActivateExtension vyomasystems.functional-coverage-viewer, startup: false, activationEvent: 'onStartupFinished'
+2026-06-17 13:51:55.985 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-06-17 13:51:56.132 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-06-17 14:39:45.882 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-06-17 15:07:53.446 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:11:05.236 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:12:34.904 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:31:45.855 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:32:01.308 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:33:08.523 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 15:33:10.090 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2026-06-17 15:33:11.603 [error] Error (FileSystemError): Unable to resolve filesystem provider with relative file path 'untitled:task 1.png'
+	at bs.e (file:///home/.vsysuser/out/vs/workbench/api/node/extensionHostProcess.js:114:18860)
+	at Object.stat (file:///home/.vsysuser/out/vs/workbench/api/node/extensionHostProcess.js:114:16011)
+2026-06-17 15:56:32.906 [error] Error: No autocomplete model configured and provided model not found in config
+	at getAutocompleteContext (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821508:21)
+	at async processNextEditData (/home/vsysuser/workspace/.openvscode-server/extensions/continue.continue-1.3.38/out/extension.js:821625:35)
+2026-06-17 19:07:05.591 [info] Extension host terminating: renderer disconnected for too long (1)
+2026-06-17 19:07:05.592 [info] Lock '/home/vsysuser/workspace/.openvscode-server/data/User/workspaceStorage/6bfb4301/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2026-06-17 19:07:05.607 [info] Extension host with pid 44899 exiting with code 0
