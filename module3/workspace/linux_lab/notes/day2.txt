@@ -1,4 +1,0 @@
-Day 2: learned how to create files
-Day 2: learned how to move and copy file
-Day 2: learned echo, cat and nano commands
-
